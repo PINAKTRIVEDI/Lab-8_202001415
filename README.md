@@ -25,7 +25,6 @@ Lab Exercises
 ![image](https://user-images.githubusercontent.com/123732408/233609192-10a324fb-f8f6-421a-b75d-4d1fec04fc70.png)
 
 4.Then I modified the setUp method to initialize the variables.
-![image](https://user-images.githubusercontent.com/123732408/233609263-beaa4cb1-53f7-4088-b6b7-42a41f332e5b.png)
 
 5.Then I also implemented tests for the given two functions testIsHealthy() and testFitsInCage().  For testing thee fitsInCage() function, there is no need to write tests for both jen and ken objects as the function is same for both and the output of test cases depends only whether the given length is greater than,less than or equal to actual length of object.The behaviour will be similar in both cases.
 ![image](https://user-images.githubusercontent.com/123732408/233609797-2be911bb-9568-49d0-98b6-bef7a49338aa.png)
